@@ -4,8 +4,9 @@ This is a fork of https://github.com/dennybritz/cnn-text-classification-tf which
 
 It was modified to export the model and the vocabulary to be used in an Android Demo for TensorFlow (https://github.com/ivancruzbht/tf_android)
 
-The model is exported as a Google Protobuf file
-The vocabulary is exported as a json file
+The model is exported as a Google Protobuf file.
+
+The vocabulary is exported as a json file.
 
 ## Requirements
 
