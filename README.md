@@ -7,5 +7,10 @@ It was modified to export the model and the vocabulary to be used in an Android 
 The model is exportes aa a Google Protobuf file
 The vocabulary is exported as a json file
 
+#H2 Requirements
+
++ Python 3
++ Tensorflow > 0.12
++ Numpy
 
 
