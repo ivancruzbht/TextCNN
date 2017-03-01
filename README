@@ -1,0 +1,8 @@
+#H1 TensorFlow implementation of a CNN for Text Classification
+
+This is a fork of https://github.com/dennybritz/cnn-text-classification-tf which is the code of this blog post: http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/.
+
+It was modified to export the model to be used in an Android app.
+
+
+
